@@ -8,21 +8,21 @@ Most of the ideas are based in free-market competition for assets, radical gover
 I fully agree that auctions are the better way to demonstrate interest by a person who wants something most but also to increase prosperity for all the rest.
 And so let's see how auctions can help with the Mini CLR, the matching pool for grants, the funding for more bounties, and even the creation of an ethical advertising fund to promote some of the open-source projects growing around Gitcoin.
 My approach is through:
-- Gitcoin Mini CLR auctions
+- Gitcoin Mini CLR auctions.
 - Gitcoin one-on-one meeting auctions.
 
 But as the Gitcoin community expands maybe it's good to start thinking to open the discussion and QV for some issues interesting for all of us.
 And my proposal is:
 - Gitcoin Townsquare voice tokens QV.
 
-Finally, some of the reasons of being part in Gitcoin are being part of a community, meet other peers, share insights, learn, test and deploy products with the latest technologies, earn ether, create a blockchain portfolio, and get a job.
+Finally, some of the reasons of being part of Gitcoin are feel a member of the community, meet other peers, share insights, learn, test and deploy products with the latest technologies, earn ether, create a blockchain portfolio, and get a job.
 Let's approach how a remote VIP program enabled by Gitcoin can benefit the community, the talent actively looking for a job, and blockchain companies:
 - Gitcoin remote VIP program.
 
 
 ## GITCOIN MINI CLR AUCTION
 
-The Mini CLR Distribution and tips have been an authentic revolution in the TownSquare not only as a mean of appreciation to other community members but as data as labour.
+The Mini CLR Distribution and tips have been an authentic revolution in the Townsquare not only as a mean of appreciation to other community members but as data as labour.
 
 It is clear how to earn in each round with suggested donation for actions such as referring a friend to Gitcoin, share an insight, participate in a hackathon and much more. 
 But with the scope and scale of Gitcoin with more newcomers, we have to avoid what some economists and sociologists call a "moral economy": we need to avoid that those old community members are just tipped by the appreciation of other old members, who will reciprocate in some way. If more newcomers hit the Mini CLR distribution charts we will generate more engagement and we will avoid tipping behaviours as an only sense of mutual support between tippers, as moral impulses and empathy.
@@ -34,7 +34,7 @@ This organization while possesses the Mini CLR can suggest new actions to be rew
 
 I suggest an English auction, one week before the current Mini CLR distribution ends. 
 In an English auction new bids increase the price until no new bid has been posted for a fixed number of time. The auctioneer starts with an initial offering price (the reserve price) and asks for an opening bid with a minimum bid increment. 
-A minimum bid increment is necessary if not the auction might last forever with one wei increments.
+A minimum bid increment is necessary if not the auction might last forever for example with one wei increments.
 The Mini CLR distribution auction self-assessed price would be the one matched at the time of the highest bid. 
 
 If there is no company bidding for it, Gitcoin will possess the asset until beaten again for another organization.
@@ -57,17 +57,17 @@ This would be a good deal and wise use of money as the auction collection is goi
 
 A second-price sealed-bid auction (a Vickrey auction) make sense for it. 
 Each auction will begin with the auctioneer setting the reserve price.
-Just a week before the Grants round, bidders submit sealed bid commitments and later reveal them. Highest revealed bid wins but the price to pay is only the price of the second-highest revealed bid.
-While the English auction (discussed previously at the Gitcoin Mini CLR auction) and the Vickrey auction lead to an efficient market, and the results are similar as the choice between first and second price remains, in my opinion, the Vickrey auction adds a FOMO feeling to the bidders.
+Just a week before the Grants round start, bidders submit sealed bid commitments and later reveal them. Highest revealed bid wins but the price to pay is only the price of the second-highest revealed bid.
+While the English auction (discussed previously at the Gitcoin Mini CLR auction) and the Vickrey auction lead to an efficient market, in my opinion, the Vickrey auction adds a FOMO feeling to the bidders.
 
 The winning bidder will get to meet (virtually) with the Gitcoin donor.
 
 
 ## GITCOIN TOWNSQUARE VOICE TOKENS QV
 
-TownSquare in Gitcoin is like the agora in ancient Greece.
+Townsquare in Gitcoin is like the agora in ancient Greece.
 
-It is an amazing space for members to share their insights, promote their grants, engage with announcements and contributions, get a share of the mini CLR distribution with mind-blowing strategies, and much more.
+It is an amazing space for members to share their insights, promote their grants, engage with announcements and contributions, get a share of the Mini CLR distribution with mind-blowing strategies, and much more.
 
 Tipping has been a revolution for the community as a test case to understand the matching pool in grants, data as labour, and last but not least the appreciation from other community members.
 
@@ -84,7 +84,7 @@ With the expansion of Gitcoin and the increase of members, it's clear that a way
 
 Gitcoin acting as a verticalized job marketplace focused on blockchain industry an enabling a remote VIP program to sponsor worldwide talent from companies which have participated in Gitcoin hackathons and bounties can be a win-win-win approach to talent placement.
 
-Gitcoin could be more efficient than horizontal platforms such as Indeed, LinkedIn and others as Gitcoin would focus in only one industry, with a liquidity of talents with a portfolio built via bounties and hackathons, and blockchain companies participating in its ecosystem. A talent that can be delivered fast in a post-COVID world.
+Gitcoin could be more efficient than horizontal platforms such as Indeed, LinkedIn and others. Gitcoin would focus in only one industry, with a liquidity of talents with a portfolio built via bounties and hackathons, and blockchain companies participating in its ecosystem. A talent that can be delivered fast in a post-COVID world.
 
 Companies sponsoring talent should pay a tax quantified in a number of future bounties that would help to nurture the talent pool with new candidates. And talent should also pay a tax quantified as a number of hours pro bono for the Gitcoin community.
 
