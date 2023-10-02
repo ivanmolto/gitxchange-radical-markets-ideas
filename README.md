@@ -3,6 +3,8 @@
 We are in a challenging moment, a time of crisis but also a time of opportunities.
 Let's disrupt the current order, let's imagining possible radical markets ideas to be applied within Gitcoin.
 
+GitxChange hackathon by Gitcoin - Radical market ideas winner 🏆
+
 Most of the ideas are based in free-market competition for assets, radical governance and labour open to all.
 
 I fully agree that auctions are the better way to demonstrate interest by a person who wants something most but also to increase prosperity for all the rest.
